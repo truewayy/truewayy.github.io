@@ -3,11 +3,11 @@ title: "ICT 프로젝트 인턴십 1개월차 회고"
 excerpt: "본문의 주요 내용을 여기에 입력하세요"
 
 categories:
-  - Categories1
+  - ICT_internship
 tags:
   - [tag1, tag2]
 
-permalink: /categories1/post-name-here/
+permalink: /ICT_internship/post-name-here/
 
 toc: true
 toc_sticky: true
