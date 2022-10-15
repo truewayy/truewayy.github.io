@@ -1,9 +1,9 @@
 ---
-title: "ICT internship"
+title: "ICT 인턴십"
 layout: category
-permalink: /categories/ICT_internship/
+permalink: /categories/ict_internship/
 author_profile: true
-taxonomy: ICT internship
+taxonomy: ICT 인턴십
 sidebar:
   nav: "categories"
 ---
