@@ -3,7 +3,7 @@ title: "ICT 프로젝트 인턴십 1개월차 회고"
 excerpt: "22년 7월 쯤 ICT 프로젝트 인턴십이라는 좋은 프로그램에 신청하여 운이 좋게 합격하였고, 9월 1일부터 출근 해서 딱 한 달 째 되는 날이다."
 
 categories:
-  - ICT_internship
+  - ICT internship
 tags:
   - [ICT 프로젝트 인턴십, 프론트엔드]
 
