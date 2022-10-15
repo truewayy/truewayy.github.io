@@ -18,5 +18,5 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "ICT 인턴십"
-    url: /categories/ict_internship/
+  - title: "인턴"
+    url: /categories/인턴/
