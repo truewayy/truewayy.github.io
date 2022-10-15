@@ -24,9 +24,9 @@ title_separator: "&#124;"
 subtitle: # site tagline that appears below site title in masthead
 name: "이영진" # 블로그 닉네임 설정
 description: "주니어 프론트엔드 개발자 이영진입니다" # 블로그 설명
-url: "https://github-account.github.io" # 블로그 URL
+url: "https://truewayy.github.io" # 블로그 URL
 baseurl: # the subpath of your site, e.g. "/blog"
-repository: "github-account/github-account.github.io" # GitHub Repo 이름
+repository: "truewayy/truewayy.github.io" # GitHub Repo 이름
 teaser: #
 
 # logo                     : # 블로그명 앞에 로고 추가하고 싶을 경우 사용
