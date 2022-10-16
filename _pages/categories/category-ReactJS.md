@@ -1,9 +1,9 @@
 ---
-title: "React.js"
+title: "ReactJS"
 layout: category
 permalink: /categories/ReactJS/
 author_profile: true
-taxonomy: React.js
+taxonomy: ReactJS
 sidebar:
   nav: "categories"
 ---
