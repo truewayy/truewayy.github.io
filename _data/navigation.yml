@@ -18,5 +18,9 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
+  - title: "ReactJS"
+    url: /categories/ReactJS/
+  - title: "NextJS"
+    url: /categories/NextJS/
   - title: "인턴"
     url: /categories/인턴/

@@ -1,9 +1,9 @@
 ---
-title: "Next.js"
+title: "React.js"
 layout: category
-permalink: /categories/next_js/
+permalink: /categories/ReactJS/
 author_profile: true
-taxonomy: Next.js
+taxonomy: React.js
 sidebar:
   nav: "categories"
 ---
